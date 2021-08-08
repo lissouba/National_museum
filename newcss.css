@@ -1,0 +1,7 @@
+.cl ul li a{
+	color: blue;
+}
+#new:hover{
+	color: white;
+	background: yellow;
+}
